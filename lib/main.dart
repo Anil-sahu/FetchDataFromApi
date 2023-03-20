@@ -35,10 +35,7 @@ class _MyAppState extends State<MyApp> {
         )),
         appBarTheme: const AppBarTheme(
             backgroundColor:Color.fromARGB(255, 41, 2, 114)),
-        // textTheme: const TextTheme(bodyText1: TextStyle(color: Colors.white,fontSize: 30,fontWeight: FontWeight.bold),
-        // bodyText2: TextStyle(color:Colors.black45,fontSize: 20)),
-        // bottomAppBarTheme: const BottomAppBarTheme(color:Color.fromARGB(255, 105, 0, 241))
-      ),
+              ),
       home: const MyHOmePage(),
       debugShowCheckedModeBanner: false,
     );
