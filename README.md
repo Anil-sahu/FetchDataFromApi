@@ -1,5 +1,5 @@
 
 
-Fetch Data from APII
+Fetch Data from API
 Display network connection type in realtime
-Display web web
+Display web in app
